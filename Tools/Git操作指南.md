@@ -28,7 +28,7 @@ git标签 | `git tag -a v0.1 <commit id>`
 1.Q:github图片无法加载（图裂）
   A：因为无法访问raw.githubusercontent.com（github 的素材服务器）造成，需要修改本地hosts文件。
   raw.githubusercontent.com的IP经常更换，所以可以先通过[ipaddress](https://www.ipaddress.com/)查询IP
-  [image](https://github.com/Larry031/Note/blob/master/%E9%99%84%E4%BB%B6/%E6%9F%A5%E8%AF%A2GithubUsercontent%E7%9A%84IP%E5%9C%B0%E5%9D%80.png)
+  ![image](https://github.com/Larry031/Note/blob/master/%E9%99%84%E4%BB%B6/%E6%9F%A5%E8%AF%A2GithubUsercontent%E7%9A%84IP%E5%9C%B0%E5%9D%80.png)
   然后修改hosts文件
-  [image](https://github.com/Larry031/Note/blob/master/%E9%99%84%E4%BB%B6/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6.png)
+  ![image](https://github.com/Larry031/Note/blob/master/%E9%99%84%E4%BB%B6/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6.png)
   
