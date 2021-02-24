@@ -5,4 +5,4 @@
 - [linux]()
 - [gcc入门](https://github.com/Larry031/Note/blob/master/Tools/gcc%E5%85%A5%E9%97%A8.md)
 ## 办公工具相关
-- [excel]()
+- [excel](https://github.com/Larry031/Blog/blob/master/Tools/office/excel.md)
