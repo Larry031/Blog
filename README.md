@@ -7,3 +7,5 @@
 - [git bash配置](https://github.com/Larry031/Blog/blob/master/Tools/Git%20Bash%20%E9%85%8D%E7%BD%AE.md)
 ## 办公工具相关
 - [excel](https://github.com/Larry031/Blog/blob/master/Tools/office/excel.md)
+- [windows](https://github.com/Larry031/Blog/blob/master/Tools/office/windows.md)
+- [Capture](https://github.com/Larry031/Blog/blob/master/Tools/office/%E5%BD%95%E5%B1%8F%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6Capture.md)
