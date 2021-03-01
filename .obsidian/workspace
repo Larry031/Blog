@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tools/office/windows.md",
+            "file": "Tools/Git Bash 配置.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tools/office/windows.md",
+            "file": "Tools/Git Bash 配置.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/office/windows.md",
+                "file": "Tools/Git Bash 配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Tools/office/windows.md",
-    "Tools/office/excel.md",
+    "Tools/Git Bash 配置.md",
     "Tools/Git操作指南.md",
     "Tools/Linux随身指南.md",
-    "Tools/gcc入门.md"
+    "Tools/gcc入门.md",
+    "Tools/Untitled.md",
+    "Tools/office/Untitled.md",
+    "README.md",
+    "Tools/office/windows.md",
+    "Tools/office/excel.md"
   ]
 }
