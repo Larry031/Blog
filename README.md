@@ -4,5 +4,6 @@
 - [git入门](https://github.com/Larry031/Note/blob/master/Tools/Git%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.md)
 - [linux]()
 - [gcc入门](https://github.com/Larry031/Note/blob/master/Tools/gcc%E5%85%A5%E9%97%A8.md)
+- [git bash配置](https://github.com/Larry031/Blog/blob/master/Tools/Git%20Bash%20%E9%85%8D%E7%BD%AE.md)
 ## 办公工具相关
 - [excel](https://github.com/Larry031/Blog/blob/master/Tools/office/excel.md)
