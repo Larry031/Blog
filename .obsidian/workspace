@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "7e6f763dddbf65a3",
+        "id": "b85256dcec0c9196",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tools/office/录屏开源软件Capture.md",
+            "file": "Tools/C++菜鸟.md",
             "mode": "source"
           }
         },
-        "group": "b606dd181ff0786d"
+        "group": "405341cfeb2151ec"
       },
       {
-        "id": "b85256dcec0c9196",
+        "id": "4993d771c044ce35",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tools/office/录屏开源软件Capture.md",
+            "file": "Tools/C++菜鸟.md",
             "mode": "preview"
           }
         },
-        "group": "b606dd181ff0786d"
+        "group": "405341cfeb2151ec"
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/office/录屏开源软件Capture.md",
+                "file": "Tools/C++菜鸟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Tools/C++菜鸟.md",
+    "变量类型.png",
+    "Tools/C菜鸟.md",
+    "Tools/Untitled.md",
     "Tools/office/录屏开源软件Capture.md",
-    "Tools/office/excel.md",
-    "Tools/office/windows.md",
-    "Tools/gcc入门.md",
-    "Tools/Git Bash 配置.md",
-    "Tools/Git操作指南.md",
-    "Tools/Linux随身指南.md",
     "README.md",
-    "附件/文件保存目录.png",
-    "附件/修改hosts文件.png"
+    "Tools/gcc入门.md",
+    "附件/Pasted image 20210222102037.png",
+    "附件/修改hosts文件.png",
+    "附件/文件保存目录.png"
   ]
 }
