@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tools/Carsim2017.1安装.md",
+            "file": "Tools/Carsim.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tools/Carsim2017.1安装.md",
+            "file": "Tools/Carsim.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Carsim2017.1安装.md",
+                "file": "Tools/Carsim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Tools/Carsim.md",
+    "Tools/Carsim2017.1安装.md",
     "Tools/Untitled.md",
     "Tools/C++菜鸟.md",
     "变量类型.png",
@@ -106,8 +108,6 @@
     "Tools/office/录屏开源软件Capture.md",
     "README.md",
     "Tools/gcc入门.md",
-    "附件/Pasted image 20210222102037.png",
-    "附件/修改hosts文件.png",
-    "附件/文件保存目录.png"
+    "附件/Pasted image 20210222102037.png"
   ]
 }
