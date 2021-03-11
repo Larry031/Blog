@@ -37,6 +37,7 @@ git标签 | `git tag -a v0.1 <commit id>`
 
 <img width="800"  src="https://github.com/Larry031/Note/blob/master/%E9%99%84%E4%BB%B6/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6.png"/>
 - 刷新DNS Win+R -> cmd -> config /flushdns
+
 #### 2.Q:github访问速度慢或连接不上
 
  A：CND域名遭到DNS污染
