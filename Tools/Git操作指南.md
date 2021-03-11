@@ -37,40 +37,67 @@ git标签 | `git tag -a v0.1 <commit id>`
 
 <img width="800"  src="https://github.com/Larry031/Note/blob/master/%E9%99%84%E4%BB%B6/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6.png"/>
 - 刷新DNS Win+R -> cmd -> config /flushdns
- ### 2.Q:github访问速度慢或连接不上
+#### 2.Q:github访问速度慢或连接不上
+
  A：CND域名遭到DNS污染
+ 
  - 修改主机hosts文件
  ```
 140.82.113.4 github.com
+
 140.82.114.10 nodeload.github.com
+
 140.82.113.5 api.github.com
+
 140.82.114.10 codeload.github.com
 
 185.199.108.153 training.github.com
+
 185.199.108.153 assets-cdn.github.com
+
 185.199.108.153 document.github.com
+
 185.199.108.154 help.github.com
+
 185.199.108.153 githubstatus.com
 
 199.232.69.194 github.global.ssl.fastly.net
+
 199.232.96.133 raw.github.com
+
 199.232.96.133 raw.githubusercontent.com
+
 199.232.96.133 cloud.githubusercontent.com
+
 199.232.96.133 gist.githubusercontent.com
+
 199.232.96.133 marketplace-screenshots.githubusercontent.com
+
 199.232.96.133 repository-images.githubusercontent.com
+
 199.232.96.133 user-images.githubusercontent.com
+
 199.232.96.133 desktop.githubusercontent.com
 
 199.232.96.133 avatars.githubusercontent.com
+
 199.232.96.133 avatars0.githubusercontent.com
+
 199.232.96.133 avatars1.githubusercontent.com
+
 199.232.96.133 avatars2.githubusercontent.com
+
 199.232.96.133 avatars3.githubusercontent.com
+
 199.232.96.133 avatars4.githubusercontent.com
+
 199.232.96.133 avatars5.githubusercontent.com
+
 199.232.96.133 avatars6.githubusercontent.com
+
 199.232.96.133 avatars7.githubusercontent.com
+
 199.232.96.133 avatars8.githubusercontent.com
 ```
+
 - 刷新DNS Win+R -> cmd -> config /flushdns
